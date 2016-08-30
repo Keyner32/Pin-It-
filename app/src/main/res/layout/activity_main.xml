@@ -25,7 +25,8 @@
         android:layout_marginBottom="45dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:contentDescription="@string/contentDescription"/>
 
     <ListView
         android:id="@+id/pins_views"

@@ -2,4 +2,5 @@
     <string name="app_name">Pin It</string>
     <string name="my_lists" />
     <string name="my_todo_pins">My Pins</string>
+    <string name="contentDescription">Add a pin button</string>
 </resources>

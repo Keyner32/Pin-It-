@@ -39,7 +39,7 @@ public class NewPinsActivity extends AppCompatActivity {
 
 
         textView = (TextView) findViewById(R.id.textView);
-        listView = (ListView) findViewById(R.id.listIItems);
+        listView = (ListView) findViewById(R.id.listItems);
         Intent intent = getIntent();
         String title = intent.getStringExtra("Title");
         textView.setText(title);
